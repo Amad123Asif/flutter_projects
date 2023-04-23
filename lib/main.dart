@@ -64,6 +64,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
           child: Text("Calculator"),
         ),
       ),
+      
       body: Column(
         children: [
           Expanded(
